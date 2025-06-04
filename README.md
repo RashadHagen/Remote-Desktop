@@ -15,7 +15,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Remote-Desktop-Turn-On-Remote-Desktop-Add-Users-To-Accepted-Remote-Access-List">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Remote Desktop – Turn On Remote Desktop & Add Users To Accepted Remote Access List (Remote Desktop Users Group)</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Remote Desktop – Turn On Remote Desktop Ability & Add Users To Accepted Remote Access List (Remote Desktop Users Group)</strong>
   </a>
   <br/>
 </li>
